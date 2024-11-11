@@ -1,2 +1,2 @@
 # Cal-DESDA
-Calculator Demonstrating Essential Software Design Abilities
+(Cal)culator (D)emonstrating (E)ssential (S)oftware (D)esign (A)bilities
